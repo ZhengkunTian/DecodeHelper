@@ -6,3 +6,9 @@ A toolkit implemented by C++ for end-to-end speech recognition model.
 - [x] Path Merge For RNNT and CTC
 - [ ] Dict-based Decoding
 - [ ] N-Gram Scoring
+
+## INSTALL
+
+```python
+python setup.py install
+```
